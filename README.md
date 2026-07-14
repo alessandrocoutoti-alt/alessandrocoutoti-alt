@@ -7,7 +7,7 @@ Sou um estudante em Manaus - AM, apaixonado por tecnologia e por criar soluçõe
 * 🎓 Atualmente cursando o **4º período de Análise e Desenvolvimento de Sistemas (ADS)**.
 * 📜 Possuo formação técnica em **Informática para Internet**.
 * 🎯 Meu foco de estudos e plano de carreira estão direcionados para o **Desenvolvimento Backend**.
-* 💡 Busco oportunidades de estágio na área de desenvolvimento, suporte a sistemas e gestão comercial onde eu possa aplicar minhas habilidades de lógica e resolução de problemas.
+* 💡 Busco oportunidades de estágio/jovem aprendiz na área de desenvolvimento, suporte a sistemas e gestão comercial onde eu possa aplicar minhas habilidades de lógica e resolução de problemas.
 
 ### 🚀 O que estou construindo
 
