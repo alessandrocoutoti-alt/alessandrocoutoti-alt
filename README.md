@@ -14,7 +14,7 @@ Sou um estudante em Manaus - AM, apaixonado por tecnologia e por criar soluçõe
 * 💻 Revisando e aprimorando conceitos em linguagens voltadas para web e backend.
 * 🛥️ Tenho orgulho de ter desenvolvido no meu PCCT um Sistema de Reabastecimento de Gasolina focado na logística de catraieiros locais.
 
-### 🛠️ Tecnologias e Ferramentas que estou estudando
+### 🛠️ Tecnologias que estou estudando
 
 * **Linguagens:** Python, C
 * **Bancos de Dados:** MySQL
