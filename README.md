@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Alessandro!
 
-<!--
-**alessandrocoutoti-alt/alessandrocoutoti-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante em Manaus - AM, apaixonado por tecnologia e por criar soluções práticas que conectam software e hardware para resolver problemas reais.
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Atualmente cursando o **4º período de Análise e Desenvolvimento de Sistemas (ADS)**.
+* 📜 Possuo formação técnica em **Informática para Internet**.
+* 🎯 Meu foco de estudos e plano de carreira estão direcionados para o **Desenvolvimento Backend**.
+* 💡 Busco oportunidades de estágio na área de desenvolvimento, suporte a sistemas e gestão comercial onde eu possa aplicar minhas habilidades de lógica e resolução de problemas.
+
+### 🚀 O que estou construindo
+
+* 💻 Revisando e aprimorando conceitos em linguagens voltadas para web e backend.
+* 🛥️ Tenho orgulho de ter desenvolvido no meu PCCT um Sistema de Reabastecimento de Gasolina focado na logística de catraieiros locais.
+
+### 🛠️ Tecnologias e Ferramentas que estou estudando
+
+* **Linguagens:** Python, C
+* **Bancos de Dados:** MySQL
+
+### 📫 Como se conectar comigo
+
+* **LinkedIn:** [Alessandro](https://www.linkedin.com/in/alessandro-vinícius-a90494320)
+* **E-mail:** [alessandrocouto.ti@gmail.com](mailto:alessandrocouto.ti@gmail.com)
+
+---
+⭐️ *Obrigado por visitar meu perfil!*
