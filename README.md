@@ -32,12 +32,4 @@ Sou um estudante em Manaus - AM, apaixonado por tecnologia e por criar soluçõe
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-![Estatísticas do Alessandro](https://github-readme-stats.vercel.app/api?username=alessandrocoutoti-alt&show_icons=true&theme=radical&hide_border=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrocoutoti-alt&layout=compact&theme=radical&hide_border=true)
-
----
-
 ⭐️ *Obrigado por visitar meu perfil!*
