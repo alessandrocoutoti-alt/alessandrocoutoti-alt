@@ -1,35 +1,31 @@
 # 👋 Olá, eu sou o Alessandro!
-
 Sou um estudante em Manaus - AM, apaixonado por tecnologia e por criar soluções práticas que conectam software e hardware para resolver problemas reais.
 
 ### 👨‍💻 Sobre mim
-
 * 🎓 Atualmente cursando o **4º período de Análise e Desenvolvimento de Sistemas (ADS)**.
 * 📜 Possuo formação técnica em **Informática para Internet**.
 * 🎯 Meu foco de estudos e plano de carreira estão direcionados para o **Desenvolvimento Backend**.
 * 💡 Busco oportunidades de estágio/jovem aprendiz na área de desenvolvimento, suporte a sistemas e gestão comercial onde eu possa aplicar minhas habilidades de lógica e resolução de problemas.
 
 ### 🚀 O que estou construindo
-
 * 💻 Revisando e aprimorando conceitos em linguagens voltadas para web e backend.
 * 🛥️ Tenho orgulho de ter desenvolvido no meu PCCT um Sistema de Reabastecimento de Gasolina focado na logística de catraieiros locais.
 
-### 🛠️ Tecnologias que estou estudando
-
+### 🛠️ Tecnologias
 * **Linguagens:** Python, C
+* **Web:** HTML, CSS, JavaScript
 * **Bancos de Dados:** MySQL
 * **Ferramentas:** Git, GitHub
-  
+
 ### 📌 Projetos em destaque
-- [Conversor de Temperatura](link) — Python, lógica de conversão e formatação
-- [Jogo de Adivinhação](link) — Python, loops, tratamento de erros
-- [Gerenciador de Tarefas](link) — Python, persistência de dados em JSON
+- [Conversor de Temperatura](https://github.com/alessandrocoutoti-alt/Temperature-converter) — Python, funções e lógica de conversão
+- [Jogo de Adivinhação](https://github.com/alessandrocoutoti-alt/jogo-adivinhacao) — Python, loops e tratamento de erros
+- [Gerenciador de Tarefas](https://github.com/alessandrocoutoti-alt/To-Do-List) — Python, persistência de dados em JSON
+- [Página de Perfil Interativa](https://github.com/alessandrocoutoti-alt/minha-pagina-html) — HTML, CSS e JavaScript, com alternância de tema
 
 ### 📫 Como se conectar comigo
-
-* **LinkedIn:** [Alessandro](https://www.linkedin.com/in/alessandro-vinícius-a90494320)
+* **LinkedIn:** [Alessandro](https://www.linkedin.com/in/alessandro-vin%C3%ADcius-a90494320)
 * **E-mail:** [alessandrocouto.ti@gmail.com](mailto:alessandrocouto.ti@gmail.com)
 
 ---
-
 ⭐️ *Obrigado por visitar meu perfil!*
